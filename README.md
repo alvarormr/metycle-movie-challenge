@@ -23,6 +23,10 @@ How to Run the Project
 Clone the repository:
 git clone <repository_url>
 
+Conclusion
+
+This challenge demonstrated the ability to work with relational databases, perform SQL queries, and visualize data insights effectively. The entire workflow, from data import to analysis and visualization, was completed using PostgreSQL and Python.
+
 Launch a PostgreSQL container:
 docker run --name postgres_db -e POSTGRES_PASSWORD=postgres -p 5432:5432 -d postgres
 
