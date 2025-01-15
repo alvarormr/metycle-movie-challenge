@@ -7,10 +7,10 @@ This project involves analyzing a movie dataset using PostgreSQL and Python in a
 
 **Tools Used**
 
-PostgreSQL (via Docker)
-DBeaver for database interaction
-Python (Jupyter Notebook)
-Matplotlib & Seaborn for data visualization
+PostgreSQL (via Docker).
+DBeaver for database interaction.
+Python (Jupyter Notebook).
+Matplotlib & Seaborn for data visualization.
 
 
 **Project Structure**
