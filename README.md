@@ -1,6 +1,6 @@
 # metycle-movie-challenge
 
-Project Overview
+*Project Overview*
 
 This project involves analyzing a movie dataset using PostgreSQL and Python in a Jupyter Notebook environment. The analysis includes querying a PostgreSQL database, performing SQL-based data analysis, and visualizing insights from the data.
 
